@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 montant = float(input("Entrez le montant : "))
 
@@ -19,7 +19,6 @@ print("Economie :", economie)
 print("Taxe :", taxe)
 print("Total :", total)
 
-=======
 
 montant = float(input("Entrez le montant : "))
 
@@ -40,4 +39,3 @@ print("Economie :", economie)
 print("Taxe :", taxe)
 print("Total :", total)
 
->>>>>>> 20b071d409abe6338d253e3bb116c42b0d5d8c4b

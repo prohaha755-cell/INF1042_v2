@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 anner_en_jours = 365
 chiffre = int(input("donne moi une date en jour:"))
 jours = anner_en_jours - chiffre
@@ -10,7 +10,7 @@ print("Jours :", jours)
 print("Heures :", heures)
 print("Minutes :", minutes)
 print("Secondes :", secondes)
-=======
+
 
 jours = 365
 
@@ -22,4 +22,4 @@ print("Jours :", jours)
 print("Heures :", heures)
 print("Minutes :", minutes)
 print("Secondes :", secondes)
->>>>>>> 20b071d409abe6338d253e3bb116c42b0d5d8c4b
+
